@@ -1,0 +1,7 @@
+nc
+
+socat
+
+https://pmlabs.net/pwr/0xfeedface/0x02 <--- zrobić
+
+https://pmlabs.net/pwr/0xfeedface/0x03/todo.txt

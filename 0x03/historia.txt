@@ -1,0 +1,146 @@
+    1  realpat grubson.jpg 
+    2  realpath grubson.jpg 
+    3  cd 
+    4  ls
+    5  cd graphics/
+    6  ls
+    7  file grubson.png 
+    8  cd /usr/share/images/desktop-base/
+    9  ls
+   10  file desktop-grub.png 
+   11  file kali-grub.png 
+   12  cd /home
+   13  ls
+   14  cd /root/graphics/
+   15  ls
+   16  file grub.jpg 
+   17  cd /etc/default/
+   18  ls
+   19  ls -al
+   20  gedit
+   21  gedit grub 
+   22  update-grub
+   23  apt-get update
+   24  apt-get dist-upgrade
+   25  gnuradio
+   26  apt-get gnuradio
+   27  apt-get install gnuradio
+   28  apt-get
+   29  apt-get upgrade
+   30  kalibrate-rtl
+   31  gnuplot
+   32  rtlsdr-scanner
+   33  apt-get update && apt-cache search kali-linux-sdr
+   34  history
+   35  apt-get install kali-linux-sdr
+   36  apt-get update && apt-cache search kali-linux-sdr
+   37  apt-get update && apt-cache search kali-linux-sdr && apt-get install
+   38  apt-get update && apt-cache search kali-linux-sdr && apt-get install kali-linux-sdr
+   39  apt-get install kali-linux-sdr
+   40  apt-get search kali-linux-sdr
+   41  apt-get list kali-linux-sdr
+   42  apt-get 
+   43  apt-get update && apt-cache search kali-linux-sdr && apt-get dist-upgrade 
+   44  apt-get update && apt-cache search kali-linux-sdr && apt-get dist-upgrade kali-linux-sdr
+   45  cd etc/apt
+   46  cd /etc/apt
+   47  gedit sources.list &
+   48  apt-cache search kali meta
+   49  mv sources.list sources.list_BAK
+   50  ls
+   51  gedit sources.list
+   52  apt-get update 
+   53  apt-cache search kali-linux
+   54  sudo apt-get update 
+   55  apt-cache search kali-linux
+   56  apt-get install kali-linux-sdr
+   57  apt-cache search kali meta
+   58  apt-get update && apt-cache search kali-linux
+   59  gedit sources.list
+   60  apt-get update
+   61  apt-cache search kali-linux
+   62  apt-get install kali-linux-sdr
+   63  gnuradio
+   64  apt-cache show kali-linux-sdr |grep Depends
+   65  gnuradio
+   66  hackrf
+   67  kalibrate-rtl
+   68  apt-get install kali-linux-sdr
+   69  kali-linux-sdr
+   70  apt-cache show kali-linux-sdr |grep Depends
+   71  x-sdr
+   72  apt-cache show kali-linux-wireless |grep Depends
+   73  ping wp.pl
+   74  nmap 
+   75  nmap -Pn 156.17.240.19
+   76  nmap -NP 156.17.240.19
+   77  nmap -N 156.17.240.19
+   78  nmap
+   79  ls
+   80  namap -Pn 156.17.240.19
+   81  nmap
+   82  ssh sp6pwt@156.17.240.19
+   83  ssh sp6pwt@156.17.240.19 -p 5022
+   84  namap -Pn 156.17.240.19
+   85  nmap -Pn 156.17.240.19
+   86  ssh sp6pwt@156.17.240.19 -p 5022
+   87  ping 156.17.240.19 
+   88  man ncat
+   89  man nc 
+   90  man ncat
+   91  man netcat
+   92  man nc
+   93  nc -l 5555
+   94  nc 0xfeedface.pl 80
+   95  nc 0xfeedface.pl 80 | grep 
+   96  nc 0xfeedface.pl 80 | grep e
+   97  nc 0xfeedface.pl 80 
+   98  nc -l 
+   99  nc -l 5555
+  100  nc --help
+  101  man nc
+  102  man ncat
+  103  ncat -l 5555
+  104  ncat -l 5555 -e /bin/bash
+  105  nc -l -p 5555 > out.txt
+  106  ls
+  107  cat out.txt 
+  108  ls
+  109  history
+  110  man nc
+  111  ssh stud@pwr.pmlabs.net
+  112  ssh pwr.pmlabs.net
+  113  ssh stud@pwr.pmlabs.net
+  114  ncat -l 9999 -e /bin/bash
+  115  ssh -L 9999:wp.pl:80 stud@pwr.pmlabs.net
+  116  ssh stud@pwr.pmlabs.net
+  117  ifconfig
+  118  ssh stud@pwr.pmlabs.net
+  119  ncat -l 9999 -e /bin/bash
+  120  cd /etc/ssh
+  121  gedit /etc/ssh/sshd_config
+  122  service ssh restart
+  123  cd ?
+  124  cd /
+  125* 
+  126  ssh stud@pwr.pmlabs.net
+  127  ssh -R 9900:localhost:3333 stud@pwr.pmlabs.net
+  128* 
+  129  ssh -R 8888:localhost:9999 stud@pwr.pmlabs.net
+  130  ssh -L 8888:localhost:80 stud@pwr.pmlabs.net
+  131  ssh -L 8888:wp.pl:80 stud@pwr.pmlabs.net
+  132  ssh -L 8888:0.0.0.0:80 stud@pwr.pmlabs.net
+  133  ssh -L 8888:whatismyipaddress.com:80 stud@pwr.pmlabs.net
+  134  service nscd reload
+  135  sudo /etc/init.d/nscd restart
+  136  /etc/init.d/nscd restart
+  137  man ssh
+  138  man socks
+  139  man sock
+  140  man socat
+  141  man ssh
+  142  ssh stud@pwr.pmlabs.net
+  143  history
+  144  cd ~/laby/0x03/
+  145  cat history > historia.txt
+  146  history > historia.txt
